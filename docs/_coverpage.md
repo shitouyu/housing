@@ -1,7 +1,7 @@
-![logo](_images/logo.png)
+![logo](http://housing.00393.cn/index_files/y_logo.png)
 
 # housing <small>5.2.6</small>
-
+<!--
 <p align="center">
     <a href="https://s.w7.cc/module-11276.html" target="_blank">
     	<img alt="star this repo" src="http://housing.00393.cn/index_files/y_logo.png" />
@@ -23,7 +23,7 @@
 		<img src="https://img.shields.io/npm/l/wux-weapp.svg?style=flat" />
 	</a>
 </p>
-
+-->
 > 同城微房产--微擎最好的房产模块
 
 * 公众号、小程序、PC
