@@ -5,14 +5,14 @@
 * 配置中心
 
   * [基础配置]
-    * [平台配置](config).md)
-    * [协议配置](xiyi).md)
+    * [平台配置](config.md)
+    * [协议配置](xiyi.md)
   * [界面配置]
 
 * 会员中心
 
-  * [会员级别](level).md)
-  * [会员管理](members).md)
+  * [会员级别](level.md)
+  * [会员管理](members.md)
   * [个人认证](auth.md)
   * [企业认证](company-auth.md)
   * [入驻申请](company-user.md)
