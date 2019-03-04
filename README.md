@@ -1,3 +1,3 @@
-# Headline
+# 配置中心
 
-> An awesome project.
+> 配置中心分为两大部分
